@@ -1,0 +1,9 @@
+*pyc
+__pyc__
+.idea/
+.venv
+*vev/
+.venv/
+venv.bak/
+sqlit3/
+
