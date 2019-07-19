@@ -31,3 +31,10 @@ class User(models.Model):
     avatar = models.CharField(max_length=256, verbose_name='个人形象')
 
     location = models.CharField(max_length=8, verbose_name='长居地')
+
+
+
+
+
+
+
