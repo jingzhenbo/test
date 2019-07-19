@@ -22,7 +22,7 @@ def send_vcode(phone_num):
 
     params = cfg.YZX_PARAMS.copy()
 
-    params['param'] = '短信验证接口测试 @.@'
+    params['param'] = ':短信验证接口测试 @.@'
 
     params['mobile'] = phone_num
 
