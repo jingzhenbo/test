@@ -5,5 +5,6 @@ __pyc__
 *vev/
 .venv/
 venv.bak/
-sqlit3/
+sqlite3/
+db.sqlite3/
 
